@@ -1,5 +1,8 @@
 # Emotional-Stability
 ***
+## Link To Kick-Starter Video
+[https://youtu.be/67DgnWMvb2Q]
+
 ## Link To Poster
 [https://github.com/UQdeco3500/Emotional-Stability/wiki#poster]
 
