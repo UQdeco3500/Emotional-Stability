@@ -1,6 +1,7 @@
 # Emotional-Stability
 ***
-## link to Poster
+## Link To Poster
+[https://github.com/UQdeco3500/Emotional-Stability/wiki#poster]
 
 ## Link To Project Proposal
 
