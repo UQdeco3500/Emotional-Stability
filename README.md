@@ -13,4 +13,4 @@
 [[https://github.com/UQdeco3500/Emotional-Stability.wiki.git](https://github.com/UQdeco3500/Emotional-Stability/wiki)]
 ## Link to Working Prototype, Promotional Material, and Documentation  
 digital prototype: https://xd.adobe.com/view/1d836229-d85b-4731-b2b2-d104d85166c9-48d0/?fullscreen
-Whole Final Prototype: https://github.com/UQdeco3500/Emotional-Stability/wiki/7.-Design-Prototyping
+<br>Whole Final Prototype: https://github.com/UQdeco3500/Emotional-Stability/wiki/7.-Design-Prototyping
